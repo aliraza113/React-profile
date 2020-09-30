@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-profile/static/css/main.4076fd4e.chunk.css",
+    "main.js": "/React-profile/static/js/main.105ff670.chunk.js",
+    "main.js.map": "/React-profile/static/js/main.105ff670.chunk.js.map",
+    "runtime-main.js": "/React-profile/static/js/runtime-main.7c91da9f.js",
+    "runtime-main.js.map": "/React-profile/static/js/runtime-main.7c91da9f.js.map",
+    "static/js/2.4a3f3188.chunk.js": "/React-profile/static/js/2.4a3f3188.chunk.js",
+    "static/js/2.4a3f3188.chunk.js.map": "/React-profile/static/js/2.4a3f3188.chunk.js.map",
+    "index.html": "/React-profile/index.html",
+    "precache-manifest.ab002b5647de408371115883f87d68a5.js": "/React-profile/precache-manifest.ab002b5647de408371115883f87d68a5.js",
+    "service-worker.js": "/React-profile/service-worker.js",
+    "static/css/main.4076fd4e.chunk.css.map": "/React-profile/static/css/main.4076fd4e.chunk.css.map",
+    "static/js/2.4a3f3188.chunk.js.LICENSE.txt": "/React-profile/static/js/2.4a3f3188.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-profile/static/media/vu-2.077db905.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c91da9f.js",
+    "static/js/2.4a3f3188.chunk.js",
+    "static/css/main.4076fd4e.chunk.css",
+    "static/js/main.105ff670.chunk.js"
+  ]
+}
